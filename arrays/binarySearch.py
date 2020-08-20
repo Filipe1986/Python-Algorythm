@@ -1,14 +1,3 @@
-'''
-Python 2.7
-
-Preconditions: 
-    Sorted Colletions
-
-Complexity : 
-    O( log(n) )
-
-'''
-
 import random
 
 def binarySearch(array, target):
